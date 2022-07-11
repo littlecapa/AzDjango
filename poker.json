@@ -1,0 +1,15 @@
+[{"model": "poker.estimatechoice", "pk": "1", "fields": {"value": 1}},
+{"model": "poker.estimatechoice", "pk": "0", "fields": {"value": 0}},
+{"model": "poker.estimatechoice", "pk": "2", "fields": {"value": 2}},
+{"model": "poker.estimatechoice", "pk": "3", "fields": {"value": 3}},
+{"model": "poker.estimatechoice", "pk": "4", "fields": {"value": 4}},
+{"model": "poker.estimatechoice", "pk": "8", "fields": {"value": 8}},
+{"model": "poker.estimatechoice", "pk": "32", "fields": {"value": 32}},
+{"model": "poker.estimatechoice", "pk": "60", "fields": {"value": 60}},
+{"model": "poker.estimatechoice", "pk": "80", "fields": {"value": 80}},
+{"model": "poker.estimatechoice", "pk": "120", "fields": {"value": 120}},
+{"model": "poker.estimatechoice", "pk": "160", "fields": {"value": 160}},
+{"model": "poker.estimatechoice", "pk": "Coffee", "fields": {"value": -1}},
+{"model": "poker.estimatechoice", "pk": "16", "fields": {"value": 16}},
+{"model": "poker.estimatechoice", "pk": "?", "fields": {"value": -1}}
+]

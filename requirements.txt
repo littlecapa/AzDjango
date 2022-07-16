@@ -88,8 +88,6 @@ Jinja2==2.10.1
 joblib==0.14.1
 json5==0.9.1
 jsonschema==2.6.0
-Keras-Applications==1.0.8
-Keras-Preprocessing==1.1.2
 keyring==21.1.0
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.3
@@ -108,7 +106,6 @@ more-itertools==7.2.0
 mpmath==1.1.0
 msgpack==0.6.1
 multipledispatch==0.6.0
-navigator-updater==0.2.1
 nbconvert==5.6.1
 nbformat==5.0.4
 networkx==2.4

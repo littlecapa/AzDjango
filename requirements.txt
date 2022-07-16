@@ -88,7 +88,6 @@ Jinja2==2.10.1
 joblib==0.14.1
 json5==0.9.1
 jsonschema==2.6.0
-jeras==2.2.4
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 keyring==21.1.0

@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@_=x*_ep%e_yi1lshtj3br788fv^l$9&ydprvx@#dl%@**@elm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS=["planning-poker-warp.azurewebsites.net", "localhost", "127.0.0.1"]
 
 
 # Application definition

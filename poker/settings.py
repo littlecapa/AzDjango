@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS=["planning-poker-warp.azurewebsites.net", "localhost", "127.0.0.1"]
 
+CSRF_TRUSTED_ORIGINS=['https://planning-poker-warp.azurewebsites.net'] 
+
 
 # Application definition
 
